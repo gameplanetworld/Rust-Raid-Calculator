@@ -8,32 +8,44 @@
 
 **3. Type in the ammout of sulfur you have to or the ammount you want to make. (It will say at the top the method used)**
 
+# Methods
+
+## Sulfur
+**You input sulfur.**
+
+**The program will calculate how much explosive you can make.**
+
+## Craft
+**You input the ammout of explosive you want to make.**
+
+**The program will calculate how much explosive you can make.**
 
 # Features
+
 ## Rockets
 
-      ↪ Sulfur (You input sulfur. The program will calculate how much explosive you can make)
+      ↪ Sulfur 
       
-      ↪ Craft (You input the ammout of explosive you want to make. The program will calculate how much explosive you can make)
+      ↪ Craft 
       
   ## C4
   
-      ↪ Sulfur (You input sulfur. The program will calculate how much explosive you can make)
+      ↪ Sulfur 
       
-      ↪ Craft (You input the ammout of explosive you want to make. The program will calculate how much explosive you can make)
+      ↪ Craft 
       
   ## Explosvie ammo
   
-      ↪ Sulfur (You input sulfur. The program will calculate how much explosive you can make)
+      ↪ Sulfur 
       
-      ↪ Craft (You input the ammout of explosive you want to make. The program will calculate how much explosive you can make)
+      ↪ Craft
       
   ## Satchel charge
   
-      ↪ Sulfur (You input sulfur. The program will calculate how much explosive you can make)
+      ↪ Sulfur 
       
-      ↪ Craft (You input the ammout of explosive you want to make. The program will calculate how much explosive you can make)
-      
+      ↪ Craft 
+ 
 # Screenshots
 ## Main screen (1)
 ![Screenshot 1](https://cdn.discordapp.com/attachments/768802146598387772/1107957062022991942/image.png)
