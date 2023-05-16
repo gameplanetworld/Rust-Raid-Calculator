@@ -12,25 +12,27 @@
 # Features
 ## Rockets
 
-      ↪ Sulfur
+      ↪ Sulfur (You input sulfur. The program will calculate how much explosive you can make)
       
-      ↪ Craft
+      ↪ Craft (You input the ammout of explosive you want to make. The program will calculate how much explosive you can make)
+      
   ## C4
   
-      ↪ Sulfur
+      ↪ Sulfur (You input sulfur. The program will calculate how much explosive you can make)
       
-      ↪ Craft
+      ↪ Craft (You input the ammout of explosive you want to make. The program will calculate how much explosive you can make)
+      
   ## Explosvie ammo
   
-      ↪ Sulfur
+      ↪ Sulfur (You input sulfur. The program will calculate how much explosive you can make)
       
-      ↪ Craft
+      ↪ Craft (You input the ammout of explosive you want to make. The program will calculate how much explosive you can make)
       
   ## Satchel charge
   
-      ↪ Sulfur
+      ↪ Sulfur (You input sulfur. The program will calculate how much explosive you can make)
       
-      ↪ Craft
+      ↪ Craft (You input the ammout of explosive you want to make. The program will calculate how much explosive you can make)
       
 # Screenshots
 ## Main screen (1)
